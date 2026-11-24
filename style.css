@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #e7c9c9;
+  color: #333;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 55px;
+    border-bottom: 1px solid #180808;
+}
+.cap {
+    font-size: 24px;
+    font-weight: bold;
+    color: #062417;
+}
+.cc {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #050c09;
+    font-size: 18px;
+}
+.city {
+    text-align: center;
+    padding: 100px 15px;    
+}
+.kn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #062417;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
